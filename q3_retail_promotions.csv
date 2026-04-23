@@ -1,0 +1,11 @@
+transaction_date,store_id,store_size,location_type,promotion_type,is_weekend,is_festival,competition_density,items_sold
+2023-01-05,S01,Large,Urban,Flat Discount,0,0,3,450
+2023-01-12,S02,Medium,Semi-Urban,BOGO,1,0,2,320
+2023-01-20,S03,Small,Rural,Loyalty Points Bonus,0,0,1,180
+2023-02-03,S01,Large,Urban,Free Gift with Purchase,0,0,3,390
+2023-02-14,S02,Medium,Semi-Urban,Category-Specific Offer,1,1,2,510
+2023-03-08,S03,Small,Rural,Flat Discount,0,0,1,210
+2023-03-25,S01,Large,Urban,BOGO,0,0,3,480
+2023-04-10,S02,Medium,Semi-Urban,Loyalty Points Bonus,1,0,2,340
+2023-04-22,S03,Small,Rural,Free Gift with Purchase,0,0,1,195
+2023-05-05,S01,Large,Urban,Category-Specific Offer,0,0,3,520
